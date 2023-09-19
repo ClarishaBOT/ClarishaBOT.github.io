@@ -1,9 +1,9 @@
 # Clarisha-BOT
 
-<img src="https://i.imgur.com/yrF189Qt.png" width=165 align="left"/>
+<img src="https://i.imgur.com/fkygpPq.png" width=165 align="left"/>
 
-> konnichiwa, watashi wa Clarisha desu <br>
+> Halo! Aku Meooow🐱 <br>
 
-Clarisha is a multi-purpose music bot ready to skill up and boost up your Discord server's voice activity. [bot website](https://clarisha.vercel.app/) to learn more about lucy! <br><br>
-[Bot Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=1132766063365476442&scope=bot&redirect_uri=https%3A%2F%2Fclarishabotbot.github.io%2F%3Finvited%3Dyes) - [Discord Server](https://discord.gg/WFfjrQxnfH) - [Top.gg](https://top.gg/user/361407102650109952)
+Setiap hari, aku akan memberikanmu gambar kucing lucu untuk membuatmu tersenyum!. [bot website](https://dailycat.is-a.fun/) to learn more about dailycat! <br><br>
+[Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=1145410245229809747&permissions=551903554656&redirect_uri=https%3A%2F%2Fdailycat.is-a.dev%2F%3Finvited%3Dyes&response_type=code&scope=guilds.join%20bot%20applications.commands) - [Discord Server](https://discord.gg/WFfjrQxnfH) - [Top.gg](https://top.gg/user/361407102650109952)
 <br>
